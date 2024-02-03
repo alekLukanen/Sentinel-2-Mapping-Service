@@ -1,0 +1,13 @@
+{
+    "sourceBucket" : "sentinel-cogs",
+    "destinationBucket" : "arn:aws:s3:::sentinel-cogs-inventory",
+    "version" : "2016-11-30",
+    "creationTimestamp" : "1671238800000",
+    "fileFormat" : "CSV",
+    "fileSchema" : "Bucket, Key, Size, LastModifiedDate",
+    "files" : [{
+      "key" : "sentinel-cogs/sentinel-cogs/data/uuid4-here.csv.gz",
+      "size" : 1234567,
+      "MD5checksum" : "abcdefghijk"
+    }]
+}

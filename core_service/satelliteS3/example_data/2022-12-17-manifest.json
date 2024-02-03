@@ -1,0 +1,893 @@
+{
+  "sourceBucket" : "sentinel-cogs",
+  "destinationBucket" : "arn:aws:s3:::sentinel-cogs-inventory",
+  "version" : "2016-11-30",
+  "creationTimestamp" : "1671238800000",
+  "fileFormat" : "CSV",
+  "fileSchema" : "Bucket, Key, Size, LastModifiedDate",
+  "files" : [ {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1b590d81-af03-45c8-b0ed-e4464a9e15eb.csv.gz",
+    "size" : 36936904,
+    "MD5checksum" : "2261132f64629c9f781302e3637579c0"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/783dec7f-c3ba-49b2-8e91-06eaa4c08490.csv.gz",
+    "size" : 12311636,
+    "MD5checksum" : "a0be816c53057ce3ca8ee7655a8a05e6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1ac36887-8e89-467f-91f2-06ab84dfa7b4.csv.gz",
+    "size" : 37492699,
+    "MD5checksum" : "cba73ba678e2068f84ee1bbc701ff3cc"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8077bca7-d7f2-4589-8e0a-0cc68c86218e.csv.gz",
+    "size" : 12551630,
+    "MD5checksum" : "8b755f56662e854ef51172ac756f1da2"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/3ced3712-1361-4fb8-a9d4-7b63e212b8ec.csv.gz",
+    "size" : 36980357,
+    "MD5checksum" : "6cedc85f95bed770a5502150376c096d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7b9d8ec1-3f46-41fb-bea0-009623269854.csv.gz",
+    "size" : 12470960,
+    "MD5checksum" : "cbec8f0e0ad6de8947ab755ed725d8cb"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0312bed3-6f26-4ad5-9f25-2229422336d8.csv.gz",
+    "size" : 37001204,
+    "MD5checksum" : "75db041fac2b51a51b4651ff15368fc9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/534758b1-96a8-4821-bc3f-57e189bbbab7.csv.gz",
+    "size" : 12394507,
+    "MD5checksum" : "2948c9659a13aafb442aaef204491c48"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/519a9790-1898-4c97-a0a1-a457e56417ec.csv.gz",
+    "size" : 36850121,
+    "MD5checksum" : "71740de789a99bcef6c75c76102ad31c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/55568947-f622-4314-b286-eb6fba3fc84f.csv.gz",
+    "size" : 12171961,
+    "MD5checksum" : "ea97a31e18f30c8500ccec96a3b3e3bd"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7fb56657-e292-42ab-9cd2-c0c47e28fba9.csv.gz",
+    "size" : 37340765,
+    "MD5checksum" : "9ac4e435204913b501264f6f4ecb18c3"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8b05e247-35f0-4663-b92c-951e7cb563fb.csv.gz",
+    "size" : 12569419,
+    "MD5checksum" : "aee9f9d7f3e4306cd67aec03df46f945"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5badfdaa-e812-443f-94b5-432047ce4a35.csv.gz",
+    "size" : 37457016,
+    "MD5checksum" : "1261853e41cba8740272630d22e37cbe"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/3e94c56c-efa3-441e-aea4-3169a0b0ab51.csv.gz",
+    "size" : 12345863,
+    "MD5checksum" : "6ee69a9c37addc3e47cc2b8f4ab9a77c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ba81634e-5628-4c2f-96a7-069b02e343ae.csv.gz",
+    "size" : 37013393,
+    "MD5checksum" : "ee45497b91d37d5914d015a26140945a"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d17acf5c-0205-4cbe-8d9f-bf47add16616.csv.gz",
+    "size" : 12459919,
+    "MD5checksum" : "f54476185f38a9352120d2426245b06f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2d3a7a98-3462-42f5-a63a-d3e8701994b6.csv.gz",
+    "size" : 36554962,
+    "MD5checksum" : "22c89d4cca479f6f9b5c3e452fbb6e73"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9d18d12d-86f4-41d7-9c9e-1028923a4530.csv.gz",
+    "size" : 12523700,
+    "MD5checksum" : "4d61015056dc0b43b5c8a2974d35e872"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a47b08eb-3a1b-4ba3-a3a5-79872c6f5248.csv.gz",
+    "size" : 14171821,
+    "MD5checksum" : "7561eaff032678bff6c50595053d5faa"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/93bf42c2-690c-4170-a7f7-b72c738bae6a.csv.gz",
+    "size" : 37512822,
+    "MD5checksum" : "ea4ce9c99f2aebc0615cbe5910f18287"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b87c3f0c-b9ae-437f-ae65-faef62234d34.csv.gz",
+    "size" : 12284049,
+    "MD5checksum" : "a75302a43f794da4026235c8fa154696"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/05163d90-6c72-47a0-ba9e-52f58165cc66.csv.gz",
+    "size" : 37595258,
+    "MD5checksum" : "a55c98465b280d5b68885deb4e041e48"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0f810e82-cac4-4bdb-bd96-7a4212bf252e.csv.gz",
+    "size" : 12534650,
+    "MD5checksum" : "2305b9de41ba62deee77dec7123063bc"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f7967322-4caa-4286-9eb5-f4c97fd07234.csv.gz",
+    "size" : 37122795,
+    "MD5checksum" : "a3afc864431172fd7f99ec7773f809d3"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b531162b-45b5-475d-b9f7-5e865c4061fd.csv.gz",
+    "size" : 12359264,
+    "MD5checksum" : "b0cbe93dc825dd8160f319a81e8a00b3"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5634e2ac-2db6-400c-bf28-f3c6a4a36016.csv.gz",
+    "size" : 34941733,
+    "MD5checksum" : "60775b00a1e7215f56592ba20c7e7ac8"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e0cfdce1-8cc9-4e04-ade4-62893e55e0c1.csv.gz",
+    "size" : 37042285,
+    "MD5checksum" : "72737085f40b700ce503c27a5e9c21fe"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0127846c-b661-4778-9f1b-d0b1a6746e9d.csv.gz",
+    "size" : 12592549,
+    "MD5checksum" : "3fde0122649b57878ed5b5d03f43975b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4728c04b-d703-48c4-8f3a-c10c035b616e.csv.gz",
+    "size" : 37134181,
+    "MD5checksum" : "18636a0bb4368af0959903fa71c94805"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/27d8fc49-0043-4900-85bf-3c5f52e7af83.csv.gz",
+    "size" : 12309478,
+    "MD5checksum" : "3f3e373e15d3f59eb69b6dee3dcf4cab"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/638b8959-0888-445d-947c-be1c347eab42.csv.gz",
+    "size" : 37495616,
+    "MD5checksum" : "b94a9d2771e1cf3a7f251f1984c9bda4"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d80be091-c717-4744-ba9d-1d9576841ce4.csv.gz",
+    "size" : 12356495,
+    "MD5checksum" : "8789392503bf9de868b50f2c2feef862"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e19e1242-c538-4c0f-8743-9ff39477d866.csv.gz",
+    "size" : 37602866,
+    "MD5checksum" : "21fc07e8ba91b21359034a5a6d3b03f9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f40f5288-aa44-46c8-971b-a9ea81111928.csv.gz",
+    "size" : 12432919,
+    "MD5checksum" : "f2fe12acb5f0612885cdecf2b03b7915"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/505ee31a-5f95-46dd-a6ad-f03830b3e11c.csv.gz",
+    "size" : 37292722,
+    "MD5checksum" : "2901135eb3202cec7a871c366490f330"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/145c9fdf-b584-4e3f-a6e7-32d4f716b9d4.csv.gz",
+    "size" : 12351266,
+    "MD5checksum" : "776bf626e59d594d48778a4451be5d6c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/103145e3-2461-4692-95b2-6ea306c8fc1a.csv.gz",
+    "size" : 9644450,
+    "MD5checksum" : "4d3154b1d0523b3985a74a21915403d8"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9bf9b995-b498-41ab-84de-4e88e8e31f5b.csv.gz",
+    "size" : 37539730,
+    "MD5checksum" : "a491c183c613ae3c64d7e23025adaf8d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8df66b06-4563-4bd7-8eea-409ba9cc8345.csv.gz",
+    "size" : 12555227,
+    "MD5checksum" : "f95a01c3878f85c71f7b17df1ad16495"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8d2e26d3-1709-427a-874b-bea76fa16dd8.csv.gz",
+    "size" : 23054321,
+    "MD5checksum" : "4d92b86b64f20b1c6573bf1e9bdfd474"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2476ecf3-1c81-411b-a285-090fe30d3ea1.csv.gz",
+    "size" : 37242243,
+    "MD5checksum" : "b15cb6bb5e37b8e54172e67940d51920"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/c29ac6fb-0e17-40df-b74f-926470ce906e.csv.gz",
+    "size" : 12532542,
+    "MD5checksum" : "43d8f031df6516dbb53a5538acbf1328"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b07146aa-a889-41ba-8847-3af15391f26b.csv.gz",
+    "size" : 37067391,
+    "MD5checksum" : "f319574eae51a5f2c21a61c4c1ebcc84"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ade5fb57-c82b-4c3d-bb44-efc19245d218.csv.gz",
+    "size" : 12419416,
+    "MD5checksum" : "679548f57fe22c1c7933472850e34754"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e292fceb-66b0-48a2-86b9-f531bc10791b.csv.gz",
+    "size" : 5778537,
+    "MD5checksum" : "dfe692b1f1f0ad2886d2db2fb228ba16"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9d0cab27-235c-4c3b-819d-387e7f2ea646.csv.gz",
+    "size" : 25717692,
+    "MD5checksum" : "8357922d17f4e7a391fc1dbad88d9075"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8689dcf5-b3d7-4809-8db3-602a391dfd72.csv.gz",
+    "size" : 37116659,
+    "MD5checksum" : "5a3ef37c6a2a1460e5ee88b62ee14ad0"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a9092747-b573-4db0-b093-f98615abace1.csv.gz",
+    "size" : 12507752,
+    "MD5checksum" : "9cd7c87f09b0437f0d48dc3e4e8339cf"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/3f010438-95e7-47cf-8f80-8b5f4ee15da4.csv.gz",
+    "size" : 37268829,
+    "MD5checksum" : "7bd7c1f944f72df23458145377ae2609"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5e124e91-4180-4726-a32f-d4af8c1b1286.csv.gz",
+    "size" : 12477383,
+    "MD5checksum" : "b6f2955b9dcccb02149b40bf0d4a4705"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f6d4b16b-5217-402e-b62d-69050596b3bb.csv.gz",
+    "size" : 37370677,
+    "MD5checksum" : "43608a89d7452df8c3ab938fbb64da22"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7a0e7891-fce0-4851-a8c7-e799d0af35e2.csv.gz",
+    "size" : 12269667,
+    "MD5checksum" : "073187f83d50f91bad4221563b49bd56"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7348a822-1efa-4e86-a7f4-bfe6552ef0fb.csv.gz",
+    "size" : 37016382,
+    "MD5checksum" : "5fdc95949f18654efef66e133d64afac"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f18cdffa-96d2-4e8f-bc3c-7749020f7059.csv.gz",
+    "size" : 12522824,
+    "MD5checksum" : "f27686e182b507700594a7887822b72c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d58ace64-1a52-4283-b8bc-a27fe8a0a61f.csv.gz",
+    "size" : 37372992,
+    "MD5checksum" : "479fe6a6a7d455cf288b3de896b9af66"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e578e365-8c27-4ad6-ab06-95852e81a77d.csv.gz",
+    "size" : 12296717,
+    "MD5checksum" : "d5c24cd1a4cbd82f0af6182d2795cca9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/958fe7a8-20ef-4a11-a36c-c9e79a60d8d5.csv.gz",
+    "size" : 2541166,
+    "MD5checksum" : "180f93fee1c082354ddb748711f30a13"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4e76e5c7-fc30-49ca-a85b-2d763affdc6e.csv.gz",
+    "size" : 37295194,
+    "MD5checksum" : "0a4bf27974370a7e0a01f77cddefa57a"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5f7ff5f9-4fa4-4915-b8ed-19878a5ed520.csv.gz",
+    "size" : 12532126,
+    "MD5checksum" : "5584e20f775ad1f79b109e141d5cd2c7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/768b7939-6045-4127-8c6a-371136c9b4a9.csv.gz",
+    "size" : 38785264,
+    "MD5checksum" : "b5ad1e6ca2f2a8797e4e9ba773ca4eb9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2188275c-add8-4f70-9eb9-e3567c65764c.csv.gz",
+    "size" : 12902649,
+    "MD5checksum" : "9c0d16b2f1f4eb3b12c69179fc5b388b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1a73d06d-afac-438c-813f-6b3c7544fcee.csv.gz",
+    "size" : 37132484,
+    "MD5checksum" : "89ce04ac9767876871f58a3d02af7833"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d6772eda-5176-48f3-8873-a7be45ba9f63.csv.gz",
+    "size" : 12439325,
+    "MD5checksum" : "b9a75ad528d74401a9fa4c7309572d81"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f3436b9b-467e-447c-94da-f213ded52114.csv.gz",
+    "size" : 37320340,
+    "MD5checksum" : "2175550338bf57f3c7f62ff5c7a026ff"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2bbe3c67-d9b2-4f54-ae46-c0a8ad5bdd49.csv.gz",
+    "size" : 12471607,
+    "MD5checksum" : "5c649c574fc33a4473068cb9f2de231d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/581b5da7-f3b3-426c-ab5f-08177062f7a0.csv.gz",
+    "size" : 37021669,
+    "MD5checksum" : "b72155788c218613c521e5dda517db12"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4c0ab7c7-47e3-44c5-b96e-75b97c311cf9.csv.gz",
+    "size" : 12394272,
+    "MD5checksum" : "d45946b9ad50b806dab56265a65a1a64"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1eadf933-83bc-473a-8cd1-eaa1124cf551.csv.gz",
+    "size" : 37003537,
+    "MD5checksum" : "c3ddfb02e8a129d8cd5abd4671bbc109"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e5844936-612b-4617-a5c1-700c3f2f1871.csv.gz",
+    "size" : 12494294,
+    "MD5checksum" : "2f13679ff675d4e4123dc1accdb8d11d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4dcc9ef8-cfc6-4b03-a746-37ba9188b87f.csv.gz",
+    "size" : 37046296,
+    "MD5checksum" : "d16954c6722dd9b7994b163b19d7bf03"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1c42a7ed-94e9-416f-b0e9-4f3e1eba121c.csv.gz",
+    "size" : 12242663,
+    "MD5checksum" : "ad1f4f7f55f1cf19a7265329d8d46eb0"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/492fca9b-a2b7-47a0-9916-cca006d6ec84.csv.gz",
+    "size" : 36814004,
+    "MD5checksum" : "75f12fef155656ae406149a7dcb3b879"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/78c64757-9da2-4efe-a275-03afa28dffaa.csv.gz",
+    "size" : 37033484,
+    "MD5checksum" : "f1c7ab5249d1cf3f3376177fd64b5a40"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0ddef12b-c4a0-4e97-93ff-20ccbcc305a8.csv.gz",
+    "size" : 12397014,
+    "MD5checksum" : "d706112819ea940654d5f8fe2525383d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7513a11e-6db9-4bc6-b68e-742eba5d5579.csv.gz",
+    "size" : 36996854,
+    "MD5checksum" : "80275777059d9231af007b19afacf1f7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9f096ade-88ba-4e5a-a788-b8a2bbf803e3.csv.gz",
+    "size" : 12299172,
+    "MD5checksum" : "2638f6b9c1d847828a7d940ad4058256"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/93ef9881-0b78-4334-851d-8f7af57f620f.csv.gz",
+    "size" : 37148855,
+    "MD5checksum" : "43eab54bbf99e107a0aa0561ce2f6c42"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0aa6a7ce-74ec-4459-a5aa-2f0a62898176.csv.gz",
+    "size" : 12495057,
+    "MD5checksum" : "c89a422fab78c6c54cc318ed445bc722"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/736c7309-2291-4a8f-a557-6b84a1bb30e8.csv.gz",
+    "size" : 37280009,
+    "MD5checksum" : "e6f4d7f03ee34fd7602c7fb5cace9011"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d11cdc7d-f154-45f1-bd1a-88b7c5b82ff8.csv.gz",
+    "size" : 12482313,
+    "MD5checksum" : "5a99fbe1196f80942f398db1fb43a612"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7e394593-b4aa-45f4-8e3f-6bfe42cff65e.csv.gz",
+    "size" : 37149144,
+    "MD5checksum" : "9ec1f73e467f1ad2439fcb974d7bb8fa"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/c3f3e37b-da70-4a95-9f37-a514cc80c322.csv.gz",
+    "size" : 12398422,
+    "MD5checksum" : "c7bb6b059ca29d2da70adf93c99d0306"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f5aaf460-dbcb-45af-905e-6d7a1fb7beed.csv.gz",
+    "size" : 37048473,
+    "MD5checksum" : "fb27a45036751dc126b83959663714bd"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/45b9b7d0-8edc-4619-a8a8-dbf50ba5dd07.csv.gz",
+    "size" : 12504332,
+    "MD5checksum" : "b9457eb977e611a0345cd30127536a3a"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/61eff278-70dd-40e9-a54c-562947dd50f7.csv.gz",
+    "size" : 36945102,
+    "MD5checksum" : "f7efe225795d9ee77c015e5830e4f9af"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/3933ce06-a650-4476-92b2-1528a1cbcb30.csv.gz",
+    "size" : 12411675,
+    "MD5checksum" : "85f557b90fc4c617468ebb3068b07106"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ef12154c-8b68-41fc-b1ab-1e2ff982c1ca.csv.gz",
+    "size" : 15783421,
+    "MD5checksum" : "e6c721af837f5fab778ed42b1ccfab53"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d62721f2-10d7-4d93-a72b-defdf185f9f5.csv.gz",
+    "size" : 36966670,
+    "MD5checksum" : "b48d5bdbdca37b879f0d631c0629f97b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/dc3ec655-5862-433f-98cf-9ba17215bbfe.csv.gz",
+    "size" : 12434834,
+    "MD5checksum" : "7f2672b57c1e8d54431a17ea78e7b095"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d9d8a7b3-8041-4585-b7b9-3e9d5b693c45.csv.gz",
+    "size" : 13923482,
+    "MD5checksum" : "5aee444c33656eff1aab1c90e76bdafe"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/33ca509d-f196-4b64-bd23-3a7ce2ec3ee3.csv.gz",
+    "size" : 37228557,
+    "MD5checksum" : "27777a998b16337d17b1f608ddad71ab"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/438c433a-d1ee-4fbe-aaf5-b5d2866043ab.csv.gz",
+    "size" : 5491549,
+    "MD5checksum" : "b08e6cff6d6ba6cb1c84bfefabc6a89d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/aac9ceda-e4f7-4e78-86dc-679dcce1a56a.csv.gz",
+    "size" : 33842331,
+    "MD5checksum" : "2686089311612a3bee4387f6f14e54d5"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4507113e-a510-4a59-9cac-2a97d5f884d4.csv.gz",
+    "size" : 37553733,
+    "MD5checksum" : "edbb4cfc233c437b560d16ccadc61fca"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e3e1d1ee-ebad-4fa8-8439-45bb9520cd86.csv.gz",
+    "size" : 12540672,
+    "MD5checksum" : "19a6f4f6844e956bf113c6acd2cd60c2"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/43cdca86-43e0-4aab-9027-18b55cf683da.csv.gz",
+    "size" : 36872888,
+    "MD5checksum" : "7738e3a0fea07b9b11f8bc178d68f79b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f08356fb-fa3c-4b1c-ab18-7c392679601c.csv.gz",
+    "size" : 12460806,
+    "MD5checksum" : "2995f69334a2f9042b42a140182dee84"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/110ad843-749d-4079-8b25-d8b67bd554ec.csv.gz",
+    "size" : 37288001,
+    "MD5checksum" : "1946022821b3d28d7c1ffb69a15d5c2c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/723a169d-fbe3-460f-b254-56b2af1621df.csv.gz",
+    "size" : 5326446,
+    "MD5checksum" : "9278879d4f6ce8248b5a9a5e4718fb13"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/57e76f5f-1a71-4b64-a710-e9f924a3696f.csv.gz",
+    "size" : 25450299,
+    "MD5checksum" : "39f6bb33dfbd4052057b522ef7c20da9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7d5dfe68-28ff-486a-b800-1ae8c7459ac0.csv.gz",
+    "size" : 37195924,
+    "MD5checksum" : "723a26e345af14ba25c37872e83ac123"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/26acdb06-fa3f-4285-87e7-5b48dc1ca5cd.csv.gz",
+    "size" : 12400306,
+    "MD5checksum" : "55322c18d3eeefa7d0fd64bce1946fd1"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0236bbad-4f9b-41e5-8db9-57bdf5d16e8d.csv.gz",
+    "size" : 37112079,
+    "MD5checksum" : "c8d9e071255a6f12d6bfc2e2d33f8b1f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2a43eda6-813e-428d-9a9b-fbaad7d70281.csv.gz",
+    "size" : 12411746,
+    "MD5checksum" : "eec3a8f60d8aeebb59071464947dcc09"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/398e4ef5-7eac-4179-b1f3-3083c66b8909.csv.gz",
+    "size" : 37450141,
+    "MD5checksum" : "b5ec2a99198e519ea65bb1643e657bf5"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/497227fc-ab83-43b0-b7f0-38e3cd1e5336.csv.gz",
+    "size" : 12463372,
+    "MD5checksum" : "d9dd8d800ae7f61262b03fbed392a0a8"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/07fa4816-fd83-416d-8c6a-c80f856d5813.csv.gz",
+    "size" : 37010287,
+    "MD5checksum" : "18bde611cbcfcc90b56d87a8892696d3"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1923cb48-7e93-463b-b9aa-0a78d2fa4df6.csv.gz",
+    "size" : 12352425,
+    "MD5checksum" : "d23a3c49cc68e3e0d9f88e128ce7b2ed"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9389f888-d974-4100-b3c1-c5b6eb8230bd.csv.gz",
+    "size" : 37175083,
+    "MD5checksum" : "d65421140b464911cedcf8ca02d112ea"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/cfa1d163-c9c6-48b0-a2e7-b5a497e58d45.csv.gz",
+    "size" : 12566893,
+    "MD5checksum" : "793dbb227b2404a4cb4654855196eb0a"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/cf273925-1cb1-4169-a1bd-54efee366712.csv.gz",
+    "size" : 36936570,
+    "MD5checksum" : "6bd0d1ead19fabb0738538ff7701c990"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ef037513-6816-43cc-a549-8967caad4cfe.csv.gz",
+    "size" : 12512896,
+    "MD5checksum" : "b0cff8b942a0105e5b1fe24f0df2fc2f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d4fa2055-1cae-40fd-a4ab-1628f3658fd6.csv.gz",
+    "size" : 37278258,
+    "MD5checksum" : "028aaa1ae0fbe308a7d636f8c48063d0"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/cb19119a-a6ef-4963-8ad6-75a60634ca64.csv.gz",
+    "size" : 12475927,
+    "MD5checksum" : "dee1a8cadefc546e7e832a8af1ca0d25"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ecfbe078-5bf6-46ae-a842-7a388f28cce0.csv.gz",
+    "size" : 37426120,
+    "MD5checksum" : "8895fb2aa92b014fecc542b3b607941e"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/315085ac-716b-4287-ba03-8ce1944c4f4c.csv.gz",
+    "size" : 5631778,
+    "MD5checksum" : "a3e84afe6fecce09528b7a1b12c052a8"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/c90040b5-0391-4e43-abec-241cc1ff518c.csv.gz",
+    "size" : 37453576,
+    "MD5checksum" : "e497c626744da42f07547286c4a6aea6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/fe286603-77d1-4c8c-8de0-b3a7a2fab32c.csv.gz",
+    "size" : 12433430,
+    "MD5checksum" : "9ea39348afb0c52206c730fadd1d7a7b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/037e18e0-b310-4bbf-91b5-e9db055b37fb.csv.gz",
+    "size" : 37034760,
+    "MD5checksum" : "4d076f5f64f5a9a05251f49274cb096b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b8bed861-3bd0-44dd-b2e4-84517e1ac6f7.csv.gz",
+    "size" : 12375029,
+    "MD5checksum" : "b6c8632129dc79c4d9c1a9b089885e2f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/6d835e16-e183-47cb-8c2b-f5d15b85cfb8.csv.gz",
+    "size" : 37154467,
+    "MD5checksum" : "66f7f0e44adc133ba02b0b0a1b74aa83"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/086650d4-3d98-4206-a503-121ff6368632.csv.gz",
+    "size" : 12510736,
+    "MD5checksum" : "5d235b1b2b5db99e3f1f6aef931c1416"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f80e7ef9-69de-4184-8e07-e7d428484fe2.csv.gz",
+    "size" : 37467030,
+    "MD5checksum" : "8e67dae659a82f7664e4ed8df89bd28d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/892c4ff0-8059-4721-aacc-ab4d5b0fb5b4.csv.gz",
+    "size" : 12455337,
+    "MD5checksum" : "d7bc3469fd9d68b5dc38307e705d5b52"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/aa3e0fae-f660-4ac5-89eb-0baf90dc383e.csv.gz",
+    "size" : 36660011,
+    "MD5checksum" : "f2557b928a12115e6d7018237dc43396"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/dd869f0f-0e41-4812-b30f-ece1a7cfefb6.csv.gz",
+    "size" : 12326157,
+    "MD5checksum" : "e323d99539bfdebd0b40ad2eaee82908"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/266f4489-3267-4cae-b91c-5ddbe71c392d.csv.gz",
+    "size" : 37454838,
+    "MD5checksum" : "2bdb2804f4881f23a4ff67c5d963db94"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e0786fa0-a052-4fee-a86a-36e20a7e4c43.csv.gz",
+    "size" : 12296038,
+    "MD5checksum" : "dfca8700bf63fc5592a80fd731952ea1"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a79387b4-371e-4349-92df-700faf585861.csv.gz",
+    "size" : 36922221,
+    "MD5checksum" : "201530aeb39ff3e340f673fd414b9a79"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b335e5ca-399f-440c-954b-7b8e4408a990.csv.gz",
+    "size" : 12468334,
+    "MD5checksum" : "d6529894f9bd6aa1d4b46ea10556c231"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1619a286-7b2d-48c4-81d6-662e0f640269.csv.gz",
+    "size" : 37156472,
+    "MD5checksum" : "c0d31132cd9b26f2a5fa588bb1feabd6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d845f0cb-2550-4132-9e98-b8bbc3498b6c.csv.gz",
+    "size" : 3656018,
+    "MD5checksum" : "2c07631a886e07e334f85afa1973d267"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/425a5a48-e11c-4608-bbd7-330aa47e5ebf.csv.gz",
+    "size" : 37048356,
+    "MD5checksum" : "a69aac3bed3089f5381709463a53c878"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/3066c2f5-2180-408d-99f7-fef0919b9ea5.csv.gz",
+    "size" : 12363574,
+    "MD5checksum" : "a8971eb941cb169a95504a4632583d36"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/40ea0dd5-3172-4cc0-b2fb-4591468e6db8.csv.gz",
+    "size" : 36959683,
+    "MD5checksum" : "c4ba5a3f34d2038fa5e9aeae7a257319"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/dc89d630-cf01-474e-b814-d5805cd823dc.csv.gz",
+    "size" : 12402569,
+    "MD5checksum" : "4df80802c4bbefaa7c5c5b1f3162ba50"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0702da73-6091-47bd-a2da-066deb1e5665.csv.gz",
+    "size" : 37331487,
+    "MD5checksum" : "f36931395af72bc2ce9d2a31afdcf46c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8d0a1da1-7ea4-4463-a3d5-11074abb58ef.csv.gz",
+    "size" : 12634987,
+    "MD5checksum" : "5df4acf57dfdb534b98424aed3a16294"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a30c656f-c2d2-4d9b-9487-2738197d4d61.csv.gz",
+    "size" : 37151019,
+    "MD5checksum" : "b737432b1e3d9c37ee9446b246959d8c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8cf37256-e5f7-4086-ab33-6c071702b41e.csv.gz",
+    "size" : 12408133,
+    "MD5checksum" : "0641369f467be904db76e0c3ff4e6372"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/140208df-cb94-413e-87e8-d5c1bf574503.csv.gz",
+    "size" : 37426966,
+    "MD5checksum" : "1377983be5bc86cb3c29a6fa5f8f522f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8128b2ef-c1b2-4097-b18c-b112e8106243.csv.gz",
+    "size" : 12500585,
+    "MD5checksum" : "67477cbc852d3fb40646b1426828871d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/32ef2b43-7ac8-43f9-a175-84c5b194e9a0.csv.gz",
+    "size" : 36997264,
+    "MD5checksum" : "347e758e4e509f4b210102df033eb5ad"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9bf6ac9a-06ac-4bf8-8bfc-479835fdae74.csv.gz",
+    "size" : 12342691,
+    "MD5checksum" : "7bd64684b8f525ecac5aaa79072f0203"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/fd7fb156-793d-4109-aec2-827715971643.csv.gz",
+    "size" : 37178695,
+    "MD5checksum" : "14b7824da927bc6940033efad39b31ee"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5f9fca63-af6e-4909-b191-6fa2c1f01bcf.csv.gz",
+    "size" : 12553160,
+    "MD5checksum" : "daedc9333102138a7b32fb1d2c1b7ba6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/908a4f6c-a3ef-41ba-9618-9a29b0774660.csv.gz",
+    "size" : 37602275,
+    "MD5checksum" : "a5e54067005a38d5823eff3d42477a64"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/ab36d299-332a-4988-ba13-51c385fe6f3a.csv.gz",
+    "size" : 12372870,
+    "MD5checksum" : "23a1af53a7701391972ebbba33684d20"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0aeff776-e350-455e-b01e-7c2108209323.csv.gz",
+    "size" : 37258055,
+    "MD5checksum" : "37082c33f72b0aa6739264d198576bd9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/bf900375-38b2-4cec-8ed0-e0202916adf1.csv.gz",
+    "size" : 12513494,
+    "MD5checksum" : "63a67276ea5fcb28930e31724cd81527"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/6dfe3785-3677-4473-91ad-331bb3f17dd7.csv.gz",
+    "size" : 36592306,
+    "MD5checksum" : "b04b7d2f1e3979a52e77033e3d43d937"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d427864b-367b-4d88-9ed7-ff7cc18cf8c1.csv.gz",
+    "size" : 12370200,
+    "MD5checksum" : "5e2418c7ad53787a2b15f437fed47660"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8d3c4a60-421d-4b97-aca3-7e5b6abebf48.csv.gz",
+    "size" : 37387257,
+    "MD5checksum" : "8004ce601503fa1e8ab44a454ade64d7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/30d900cb-331c-4c47-9139-daa6764e0d5e.csv.gz",
+    "size" : 12500344,
+    "MD5checksum" : "a913f9bd39e67fee931af69a203b69a3"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5b6c21f0-5a3c-4895-9f0b-cfc36f550f73.csv.gz",
+    "size" : 37271110,
+    "MD5checksum" : "c242dd57195b3cb8264e9de01fff7500"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b1d3b161-0b3c-4c26-844a-9a9bd0070f4d.csv.gz",
+    "size" : 12484100,
+    "MD5checksum" : "99e322dd63bfaeb1b290adeaed5a3f90"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/82675395-cecd-43fa-9e49-8dcb9f9d290c.csv.gz",
+    "size" : 37032822,
+    "MD5checksum" : "aacf847568c6f0f75b0b75f8061c5d06"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/92b3a607-b294-4098-87dd-46a842ef1f65.csv.gz",
+    "size" : 12312476,
+    "MD5checksum" : "b8f650ca64ab6621bb38902fcce2b156"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1bc11610-73e1-4a4f-a4b7-ebb703720fb5.csv.gz",
+    "size" : 37241960,
+    "MD5checksum" : "267802fe0651c31dff619cf34d9f0b13"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a9c0b2dd-867b-4d54-93d6-c833e9213a7a.csv.gz",
+    "size" : 250391,
+    "MD5checksum" : "bd3d42520425ed9fa5ebf2fe327ac958"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/aab193b7-c301-4bc2-88b7-accb982326e3.csv.gz",
+    "size" : 27711037,
+    "MD5checksum" : "5861170b2eb63789db068d952803b915"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/967d2ffb-9cfe-404a-a6ce-431f71b817fd.csv.gz",
+    "size" : 11764169,
+    "MD5checksum" : "20b8160c2637437dce63340910f2c2c9"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e77a2bc5-b4c3-43c7-9a67-d6dc3709f55f.csv.gz",
+    "size" : 28913200,
+    "MD5checksum" : "00a167b6f59157d3bdb82eb10c915af8"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d2ea381e-3c9a-4dfa-8646-a45ce4b69fb4.csv.gz",
+    "size" : 37429951,
+    "MD5checksum" : "6c93f80d1950550820d957fcb4783d4b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/40f1c3b6-1429-43a0-b860-bdf7110a7e4e.csv.gz",
+    "size" : 12569752,
+    "MD5checksum" : "348db8dcffee9be7c968205fa6410f66"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4ece44cf-c255-4f1a-9aaf-958878ca6c6d.csv.gz",
+    "size" : 37221693,
+    "MD5checksum" : "62447d6f0cf6bfa7992ac86df6ba046d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2a90fbe0-cb63-4a6d-99ee-a17814166577.csv.gz",
+    "size" : 12375188,
+    "MD5checksum" : "4cafd40d40f2774aea811696e11c60df"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/070ced57-1ff6-4cf1-b930-853b73f092c9.csv.gz",
+    "size" : 37287935,
+    "MD5checksum" : "f03b0f99371ad8824cfcc653c46161bc"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/6a8a0605-c9f2-4f9c-a3a1-d6d32356af36.csv.gz",
+    "size" : 12419812,
+    "MD5checksum" : "44ece5a480273e409cfd144d491b0822"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/84f6df5f-ae21-4a0e-8359-130c64b661ee.csv.gz",
+    "size" : 37562002,
+    "MD5checksum" : "078372fe3400768e4061b98e91896201"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5e9d4cca-5574-445b-95a9-8c822aa1d795.csv.gz",
+    "size" : 12335758,
+    "MD5checksum" : "6dfa6f5fa05ea097345f98d4f5735e9b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f1077055-d831-49f6-987a-e1ee5451e52e.csv.gz",
+    "size" : 11069375,
+    "MD5checksum" : "41e8961d154a735f7a96c284d745f6ad"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/395278b3-609a-45a0-83d2-7ef711cfa36f.csv.gz",
+    "size" : 37338465,
+    "MD5checksum" : "02dbd52ed319f71a2051560a07cb2425"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2ecad711-4b38-415a-a7f7-70aaf46893a8.csv.gz",
+    "size" : 12528286,
+    "MD5checksum" : "e118cb974b30820d8963af6afe6c1c8e"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/07049bd7-4efd-4efd-b44b-3fa3d7466bd0.csv.gz",
+    "size" : 32269315,
+    "MD5checksum" : "64c0ca1a1030e92fb05713c4a15bbb71"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4050257c-c337-4a62-abd0-0db0fde87fe5.csv.gz",
+    "size" : 6095247,
+    "MD5checksum" : "0ed92ef90a0dafea3c23172d0ba3d4e6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9130855d-88ea-4af7-a07c-029a8901effd.csv.gz",
+    "size" : 37015680,
+    "MD5checksum" : "6d824f3cd3f59b1d0c504f6ea7908299"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/4bbca145-6ec8-4185-a540-17919b177957.csv.gz",
+    "size" : 12490169,
+    "MD5checksum" : "cad5686d680fe2b7ee693bbd32e1b0bc"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/36b6a479-4b99-40c6-b54a-863fd2d6c78b.csv.gz",
+    "size" : 37432687,
+    "MD5checksum" : "17d5d061736259fe6c16d45619e90dbe"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a1f2a87a-80cc-443a-a05f-3144986f38f9.csv.gz",
+    "size" : 12522744,
+    "MD5checksum" : "db81cdf2e947b2f5bcdf6d1ec1059ec5"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e9b402e5-d2ef-4acb-9a65-8d5204d5f6eb.csv.gz",
+    "size" : 37515255,
+    "MD5checksum" : "247e2fba72a64fac6cb3eaee29f0c085"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/886b92ca-0abf-4597-9f70-3a6dafc2c57d.csv.gz",
+    "size" : 12383075,
+    "MD5checksum" : "5a3e9cba666a61614352f5a0b7e6dcf7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/58fe4d9f-afe5-430e-87fe-72885280ffa1.csv.gz",
+    "size" : 37217480,
+    "MD5checksum" : "c203b438c3a41470ee084927ea93bb9d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/5c09c94d-9f33-406b-9a52-b2c1346a4c49.csv.gz",
+    "size" : 12306847,
+    "MD5checksum" : "bf8cc96bdf02a706045542b9e2828c90"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/314801f6-43c3-4f3b-bb3d-5d5b7bb0a6fd.csv.gz",
+    "size" : 37041118,
+    "MD5checksum" : "bacf860c18bea175aa5e5ffca7a83255"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/249d964d-7335-484a-9d90-a9bd879c2fa7.csv.gz",
+    "size" : 12495830,
+    "MD5checksum" : "891b403e9d2cfd2db484ca18375b59a6"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e7609657-aed1-4148-980e-49d3c2e02158.csv.gz",
+    "size" : 37466332,
+    "MD5checksum" : "739844ebc107fad372144d132a10fe06"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/bae02391-56c1-4120-997f-0e6166d051b3.csv.gz",
+    "size" : 12477576,
+    "MD5checksum" : "c6ce39d83e27539ef9ca1a81c83ac15d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1426abe9-d661-4040-98c0-6b2f6b87420f.csv.gz",
+    "size" : 37470657,
+    "MD5checksum" : "c6563415bae5ce05773bc241810c9ed7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/2aaef8eb-8dbd-42eb-a510-4d5596205dea.csv.gz",
+    "size" : 12414590,
+    "MD5checksum" : "b12e726341dff1269455ad71fc6f7f28"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0fd6784a-4f86-417d-beaf-75ed69c8c4c0.csv.gz",
+    "size" : 35981551,
+    "MD5checksum" : "fea302814446f6f16b81b2f2eeb0f835"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/d621ae07-6f12-4ba2-8240-eb2d3243e7ab.csv.gz",
+    "size" : 37387792,
+    "MD5checksum" : "6c3aeabebc239c6bbe90009a53d73151"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/aaedd48c-44a6-4404-83aa-4270d4322a22.csv.gz",
+    "size" : 12513943,
+    "MD5checksum" : "65f9d9bb1baa905f97beb21ecc69dabc"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/69feae17-6756-4779-8cad-80951224fb33.csv.gz",
+    "size" : 37121059,
+    "MD5checksum" : "c24c01f28ca86e300553778bfd166e6e"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/05eab7a5-2ce9-4f06-834d-24e7adc50cc5.csv.gz",
+    "size" : 12454348,
+    "MD5checksum" : "e5ce2166f4e69b331d802eff58ec0e22"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/719a92c9-ab8f-44c2-9afc-04349459b02b.csv.gz",
+    "size" : 37114342,
+    "MD5checksum" : "a93deb00ad6a4eb5d615b624707c99aa"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/db19878a-9615-49fb-963c-5c396d6ad23d.csv.gz",
+    "size" : 12534641,
+    "MD5checksum" : "abeba066f9bfc01c2d97b4dc36a1ee36"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/701b0c16-a805-427f-addd-417c3dafab02.csv.gz",
+    "size" : 37060070,
+    "MD5checksum" : "aa4d14b4fe5abadca811b87294abf28b"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/a82f4294-07a3-4c0a-baf0-73545a5e79f3.csv.gz",
+    "size" : 12304904,
+    "MD5checksum" : "d75ebe7b7c656fd92d50d0c39fe82801"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/1376d920-fb8d-40ae-9fbc-864e5817ed7e.csv.gz",
+    "size" : 37195109,
+    "MD5checksum" : "ab9120e43d4a5e0c5fdaa3b281f1a80e"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/80dabe9f-d539-4d8f-8392-e759b95b698d.csv.gz",
+    "size" : 12318283,
+    "MD5checksum" : "2969822c5c973efaf741149196c5a647"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/9a8381a4-e056-4f63-81a8-8aa15f9de73d.csv.gz",
+    "size" : 37007111,
+    "MD5checksum" : "77e66d96ba39a7105a0f5c49208df03f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/42e88f60-686d-4502-b6db-678aff368bce.csv.gz",
+    "size" : 12316654,
+    "MD5checksum" : "c7577af60de454f3351f3fb155d7854f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/fd323d0a-e413-421b-94a2-196e5a110f2c.csv.gz",
+    "size" : 37136377,
+    "MD5checksum" : "e6a5fd2785c559d9129c908eb9b16f38"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/116ea01c-f61e-400d-a851-2b436dc6ed3a.csv.gz",
+    "size" : 12507874,
+    "MD5checksum" : "008b3701fe755aa3640f168944f51f0d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e73f7091-0cd8-493b-b877-dd178713407a.csv.gz",
+    "size" : 37359752,
+    "MD5checksum" : "db44fc3be9f1b44552e8c665a67632bb"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/f32615bb-aebf-45e1-827a-bbfe0366dd4f.csv.gz",
+    "size" : 12331453,
+    "MD5checksum" : "0b93046ea3a63cd85e509fa109953a24"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/943dcddd-2796-409b-958e-a41b2cb93a0e.csv.gz",
+    "size" : 37322235,
+    "MD5checksum" : "79d9d588e5baf0f46c892b01c34c7a2f"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/64e568e5-7d88-4d4b-8c9e-ea649c93320d.csv.gz",
+    "size" : 12532061,
+    "MD5checksum" : "73479d75bd61beb5e56f8aec9a589539"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0a4f28b5-a58e-4f9a-b1bb-5d3f3bf19708.csv.gz",
+    "size" : 37461587,
+    "MD5checksum" : "738639667514646b062374d0871589e1"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/b1b5b1d1-aa50-4c7d-b73b-5d4090886f5f.csv.gz",
+    "size" : 12309667,
+    "MD5checksum" : "e3ddb3bb587a72510fd4147074aeb07e"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/12643226-579a-413f-8027-11dcd220eb1e.csv.gz",
+    "size" : 36996629,
+    "MD5checksum" : "f99d9a6b1a93d68037af8f3530d2cac7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/46afec7a-d69e-4ed1-9247-34850708a38e.csv.gz",
+    "size" : 12229470,
+    "MD5checksum" : "0f7da4ab122ab0f36e0f768cd3ece33d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/0927d427-69f4-4781-aa5e-210b211e123a.csv.gz",
+    "size" : 37431107,
+    "MD5checksum" : "bb0c0aeed79007b3d1682bd968c4702c"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/7b099643-d45d-4c24-8840-cd8ff65e7a44.csv.gz",
+    "size" : 12416791,
+    "MD5checksum" : "071b78b9619f97026b4dea4e76cad887"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/8aa95421-f7cc-4608-b1db-1a9b98848773.csv.gz",
+    "size" : 37240359,
+    "MD5checksum" : "b50c164646066798c1bae8446f85221a"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/22641976-6d79-494a-8a40-c44044dec23e.csv.gz",
+    "size" : 12207021,
+    "MD5checksum" : "6749ce7f1d94b1c3e2da8c1b29eef13d"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/24a1cd6f-bef3-4d9b-ae8f-d84526031706.csv.gz",
+    "size" : 37339233,
+    "MD5checksum" : "2a8ec434b46c23ef1e21e6d41f259ae7"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/17d1091e-127a-4a3a-b1af-7f54c9e5a87e.csv.gz",
+    "size" : 12528371,
+    "MD5checksum" : "f60c7531fb52d76adb3ebb4ba66083b0"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/e17b6ee8-56d0-4443-b7b3-6f0849075bc0.csv.gz",
+    "size" : 37329338,
+    "MD5checksum" : "558a9a1fa4c7a8159fb5fe83e583f2e1"
+  }, {
+    "key" : "sentinel-cogs/sentinel-cogs/data/c825d714-9d27-488b-b143-f0d769213f41.csv.gz",
+    "size" : 12535732,
+    "MD5checksum" : "f84834503724af47fb396d90c03eef73"
+  } ]
+}
