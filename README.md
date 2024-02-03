@@ -1,4 +1,4 @@
-# core-geospatial-service
+# Sentinel 2 Mapping Service
 A platform for gathering, cleaning and presenting geospatial data in a easy to 
 use API. The service allows you to index satellite imagery in the AWS sentinel 2
 S3 bucket and then query data spatially. Users can create accounts, manage
@@ -9,6 +9,16 @@ The repository is broken up into two components. One is the worker which perform
 tasks like creating the spatial index and building maps, and the other is the 
 api which allows users to interact with the service. If you just want to create 
 a spatial index then you only need to run the worker.
+
+
+## Technologies
+
+* Golang
+* Python
+* AWS S3
+* Nginx
+* Rasterio
+* Shapely
 
 
 ## Satellite imagery
