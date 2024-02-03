@@ -10,8 +10,8 @@ tasks like creating the spatial index and building maps, and the other is the
 api which allows users to interact with the service. If you just want to create 
 a spatial index then you only need to run the worker.
 
-
-Here is an example of the kind of application you can build with this service.
+Here is an example of the kind of application you can build with this service. It contains 
+all of the processing and API resources needed for this web application.
 ![Example Application](example_image.png)
 
 
