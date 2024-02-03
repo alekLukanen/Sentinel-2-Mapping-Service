@@ -4,6 +4,11 @@ use API. The service allows you to index satellite imagery in the AWS sentinel 2
 S3 bucket and then query data spatially. Users can create accounts, manage
 boundaries saved in their account and view maps built from satellite data. Currently
 the service can only build NDVI maps, but you can add other map types as needed.
+If you wish to use this repository you should make changes as needed to fit your
+needs. For example, changes to support large numbers of boundaries and historical data.
+Currently, the code only handles the most recent NDVI map, not historical maps. Also
+historical satellite data is not removed from the index, so that will need to be 
+removed manually when re-indexing. 
 
 The repository is broken up into two components. One is the worker which performs
 tasks like creating the spatial index and building maps, and the other is the 
@@ -11,7 +16,8 @@ api which allows users to interact with the service. If you just want to create
 a spatial index then you only need to run the worker.
 
 Here is an example of the kind of application you can build with this service. It contains 
-all of the processing and API resources needed for this web application.
+all of the processing and API resources needed for this web application. This React web app
+is also included in the repository, but the service itself can be used with other UI apps.
 ![Example Application](example_image.png)
 
 
@@ -21,6 +27,7 @@ all of the processing and API resources needed for this web application.
 * Python
 * AWS S3
 * Nginx
+* MongoDB
 * Rasterio
 * Shapely
 
@@ -43,7 +50,9 @@ NDVI_SCRIPT="/repo-path-here/core_service/pyGeoSpatialApp/build_ndvi_map.py"
 PROJECT_PYTHON_PATH="/repo-path-here/.venv/bin/python"
 ```
 
-You can also set the UI build path for a react build directory. A UI is not included with this repository.
+You can also set the UI build path for a React build directory. An example React UI is included
+with this project. You will need to build the UI if you wish to deploy the code, but you can
+also just run with the React web server for local testing.
 
 
 ## Setup the Python Virtual Environment
@@ -58,7 +67,7 @@ pip install -r core_service/pyGeoSpatialApp/requirements.txt
 To run the app you can do so from the `/core_service` directory of the project
 using these commands:
 ```
-docker compose up mongo s3mock
+docker compose up mongo s3mock nginx
 go run core_service api
 go run core_service worker
 ```
@@ -116,7 +125,12 @@ Retry a build boundary map task
 db.event.updateOne({event_type: 'BuildBoundaryMapTask', data: {mgrsCode: '15TUL'}}, {$set: {priority: 10, started: false, failed: false, errors: null, attempts: 0}})
 ```
 
-## Run the Local Cache
+
+## Running the UI
+Information on running the React UI server can be found in the `geo-web` directory.
+
+
+## Run the Local Cache [On by Default]
 To run the local cache you will need to boot up the Nginx container and point the service
 at that container. In the `environment.env` file update the satellite image variable to this
 ```

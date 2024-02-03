@@ -1,0 +1,12 @@
+.LoginPage-Container {
+    position: relative;
+    height: 100%;
+}
+
+.LoginPage-Row {
+    padding-top: 15%;
+}
+
+.LoginPage-Button {
+    margin: 5px;
+}

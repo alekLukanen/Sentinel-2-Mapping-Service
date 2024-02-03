@@ -1,0 +1,39 @@
+
+.HomePage-Container {
+    height: 100%;
+    position: relative;
+}
+
+.HomePage-Row {
+    padding-top: 15%;
+
+}
+
+.HomePage-Header {
+    text-align: center;
+}
+
+.Account-Button {
+    margin: 5px;
+    color: #ffffff;
+}
+
+.HomePage-Container h1 {
+    color: #ffffff;  
+    font-size: 4rem;
+    line-height: 0.9;
+    text-align: center;
+}
+
+.HomePage-Container p {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.HomePage-Container hr { 
+    color:#ffffff;
+}
+
+.HomePage p {
+    text-align: center;
+}
