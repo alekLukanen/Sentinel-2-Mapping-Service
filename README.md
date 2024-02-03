@@ -174,6 +174,6 @@ mongosh "mongodb://root@localhost:27017/?authSource=admin"
 
 In this code base I needed to use code from `https://github.com/tzneal/coordconv/tree/master` in 
 the package `geoTransformations` for converting between coordinate systems. This package is 
-almost identical with small small modifications. I copied it over just in case the repository
+almost identical with small modifications. I copied it over just in case the repository
 is ever removed from Github. The repository has a public domain license and can be used for 
 any purpose so redistribution here is okay.
